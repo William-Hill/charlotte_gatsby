@@ -71,7 +71,7 @@ const Navbar = class extends React.Component {
                 </a>
               </span>
               <span class="icon is-large">
-                <a href="https://www.instagram.com/charlottechristien/">
+                <a href="https://www.instagram.com/yescharlieyesss/">
                   <FontAwesomeIcon icon={["fab", "instagram"]} />
                 </a>
               </span>
