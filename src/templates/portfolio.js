@@ -112,10 +112,11 @@ export const portfolioPageQuery = graphql`
   query PortfolioQuery {
     allFile(
       filter: { sourceInstanceName: { eq: "charlotte" } }
-      sort: { fields: [absolutePath], order: ASC }
+      sort: { fields: [relativePath], order: ASC }
     ) {
       edges {
         node {
+          relativePath
           absolutePath
           extension
           size
