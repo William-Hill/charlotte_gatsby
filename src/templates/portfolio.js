@@ -110,7 +110,10 @@ export default GalleryComposition;
 
 export const portfolioPageQuery = graphql`
   query PortfolioQuery {
-    allFile(filter: { sourceInstanceName: { eq: "charlotte" } }) {
+    allFile(
+      filter: { sourceInstanceName: { eq: "charlotte" } }
+      sort: { fields: [absolutePath], order: ASC }
+    ) {
       edges {
         node {
           absolutePath
