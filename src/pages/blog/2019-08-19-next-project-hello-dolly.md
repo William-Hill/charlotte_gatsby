@@ -1,16 +1,19 @@
 ---
 templateKey: blog-post
-title: 'Next Project: Hello Dolly'
+title: "Next Project: Hello Dolly"
 date: 2019-08-20T04:29:44.800Z
 description: >-
   Dont miss the Broadway famous and award wining show this November in Hayward
   at Douglass Morrison Theatre
+featuredpost: true
+featuredimage: /img/hellodollyposter.jpg
 tags:
-  - '#theatre'
-  - '#Hello Dolly'
-  - '#musical'
+  - "#theatre"
+  - "#Hello Dolly"
+  - "#musical"
   - Bay Area
 ---
+
 Get ready to experience the songs and adventures of a turn of the century matchmaker. Featuring some of the most famous songs, "Put on Your Sunday Best", "Hello Dolly", and "Elegance" you don't want to miss this event. Tickets available at <https://www.dmtonline.org/hello-dolly>
 
 Performance Dates:
