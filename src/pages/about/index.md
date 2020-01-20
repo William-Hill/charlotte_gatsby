@@ -2,8 +2,7 @@
 templateKey: about-page
 title: About Charlotte
 ---
-
-![headshot](/img/img_1469_retouched.jpg)
+![headshot](/img/greenwhiteheadshot_websize.jpg)
 
 **I act. I sing. I model. I create.**
 
