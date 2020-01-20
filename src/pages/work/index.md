@@ -31,7 +31,8 @@ film:
     director: Anwuli Okeke
     role: Lead
     title: Behind Their Eyes
-  - director: Dominic Stewart
+  - company: N/A
+    director: Dominic Stewart
     role: Lead
     title: Yummy Treats
 new_media:
