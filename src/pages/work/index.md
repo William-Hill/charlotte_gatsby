@@ -2,6 +2,10 @@
 templateKey: work
 title: Resume
 theatre:
+  - company: 'Douglass Morrison Theatre '
+    director: Sueellen Nelsen
+    role: Ensemble
+    title: 'Hello Dolly! '
   - company: 'Bay Area Children’s Theatre '
     director: Khalia Davis
     role: Florence Griffith Joyner/Harriet Tubman/Ruby Bridges
@@ -31,7 +35,8 @@ film:
     director: Anwuli Okeke
     role: Lead
     title: Behind Their Eyes
-  - director: Dominic Stewart
+  - company: N/A
+    director: Dominic Stewart
     role: Lead
     title: Yummy Treats
 new_media:
